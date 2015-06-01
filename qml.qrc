@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>main2.qml</file>
+        <file>mainview.qml</file>
+        <file>DragAndDropTextItem.qml</file>
+        <file>DragAndDropItem.qml</file>
+        <file>dragdrop.js</file>
+        <file>drop.json</file>
+    </qresource>
+</RCC>
